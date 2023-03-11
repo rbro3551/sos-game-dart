@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3bcbba1d08ccf8afa7fc8a84c0dec6e98147890f318f73c9a5583ab0428c373b"
+build_start_time: [1678503130, 180518150]
+build_end_time: [1678503130, 202751159]
+inputs:
+  "/Users/rileybrookins/Documents/sos-game-dart/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1678503125, 308206081]
+  "/Users/rileybrookins/Documents/sos-game-dart/macos/Runner/AppDelegate.swift": !private [1657744731, 0]
+  "/Users/rileybrookins/Documents/sos-game-dart/macos/Runner/MainFlutterWindow.swift": !private [1657744731, 0]
