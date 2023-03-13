@@ -1,1 +1,1 @@
-A simple game of sos created in flutter. The player has an option to play against another player or play against the computer. If the player so desires, they could also watch a game played between two computer players.
+A simple game of sos created in flutter. The player has an option to play against another player or play against the computer. If the player so desires, they could also watch a game played between two computer players. 
